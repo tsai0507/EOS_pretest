@@ -1,0 +1,7 @@
+/home/frank/EOS/pretest/build/CMakeFiles/rebuild_cache.dir
+/home/frank/EOS/pretest/build/CMakeFiles/edit_cache.dir
+/home/frank/EOS/pretest/build/CMakeFiles/inverse.dir
+/home/frank/EOS/pretest/build/CMakeFiles/big.dir
+/home/frank/EOS/pretest/build/CMakeFiles/main.dir
+/home/frank/EOS/pretest/build/CMakeFiles/divisor.dir
+/home/frank/EOS/pretest/build/CMakeFiles/dice_problem.dir

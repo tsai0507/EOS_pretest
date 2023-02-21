@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/dice_problem.dir/dice_problem.cpp.o  -o dice_problem 
